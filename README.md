@@ -1,5 +1,5 @@
 This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
-# Table of Contents
+
 ## Projects
 ### gmail account analysis
 
@@ -20,3 +20,7 @@ What are the most active emailing days?​
 What am I mostly emailing about?​
 
 [Project code](../../tree/main/projects/gmail-analysis)
+
+**Technologies/Libraries:** Jupyter notebook, numpy, pandas, matplotlib, mailbox, wordbank 
+
+**Skills:** Data Analysis-> Descriptive Analysis, Data Visualization using Python
