@@ -32,4 +32,4 @@ This is an ETL pipeline in written in python. The objective of this code is to a
 
 **Technologies/Libraries:** visual studio,requests ,datetime ,azure.storage.blob ,config ,settings
 
-**Skills**  I do the cost analysis of VM`s in azure. collect cost data of VM`s then calculate of cost of one core against each VM family. then put results in azure blob storage.  
+**Skills**  I do the cost analysis of VM s in azure. collect cost data of VM s then calculate of cost of one core against each VM family. then put results in azure blob storage.  
