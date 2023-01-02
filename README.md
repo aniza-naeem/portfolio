@@ -26,10 +26,10 @@ What am I mostly emailing about?​
 **Skills:** Data Analysis-> Descriptive Analysis, Data Visualization using Python
 
 ### cpu cost
-This is an ETL pipeline written in python. I fetch the data using APIs from the source, do some math on it, and store the results in azure data lake.
+This is an ETL pipeline written in python. I fetch the data using APIs from the source, do some math on it, and store the results in azure data lake. Decouple library is used to seperate the settings from code. This helps to manage settings for different environments independent of code.
 
 [Project code](../../tree/main/projects/finops)
 
-**Technologies/Libraries:** Visual studio, Azure data lake, Python Libraries (requests, json, csv, pandas, decouple )
+**Technologies/Libraries:** Visual studio, Azure data lake, Python Libraries (requests, json, csv, pandas, decouple)
 
 **Skills**  Json data manipulation, CSV data manipulation, FinOps
