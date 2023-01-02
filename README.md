@@ -26,10 +26,10 @@ What am I mostly emailing about?​
 **Skills:** Data Analysis-> Descriptive Analysis, Data Visualization using Python
 
 ### cpu cost
-This is an ETL pipeline written in python. The objective of this code is to abstract data by using APIs from the source and then do some math on it and send the results in azure blob storage.
+This is an ETL pipeline written in python. I fetch the data using APIs from the source, do some math on it, and store the results in azure data lake.
 
 [Project code](../../tree/main/projects/finops)
 
-**Technologies/Libraries:** visual studio,requests ,datetime ,azure.storage.blob ,config ,settings
+**Technologies/Libraries:** Visual studio, Azure data lake, Python Libraries (requests, json, csv, pandas, decouple )
 
-**Skills**  I do the cost analysis of VM s in azure. collect cost data of VM s then calculate of cost of one core against each VM family. then put results in azure blob storage.  
+**Skills**  Json data manipulation, CSV data manipulation, FinOps
